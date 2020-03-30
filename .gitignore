@@ -29,6 +29,8 @@ core.*
 /.autotools
 /.cproject
 /.project
+/.idea
+/.vscode
 /.settings/
 
 # manuals
