@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "primitives.h": "c",
+        "gsm411_sms.h": "c"
+    }
+}
